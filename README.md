@@ -1,4 +1,4 @@
-# RefEx
+# CEX Project
 
 This repository contains the code used for my Master's final project. 
 Some scritps, get_evaluation_metrics.py, generate_new_xml.py, meta_eval.py, retrieve_jats_metadata.py and json_to_tei_anystyle.py have been reused from a previous research (Alessia Cioffi. (2022). Code for converting different formats to TEI XML and evaluating results (1.0). Zenodo. https://doi.org/10.5281/zenodo.6182128), but have been modified and corrected for the present research purposes.
